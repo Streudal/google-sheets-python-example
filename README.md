@@ -42,4 +42,4 @@ A sandbox for testing Google Sheets API stuff with Python.
 * Install packages: 
   * pip install gspread
 
-<b><i>Optional:</i></b> I use a virtual environment for Python (pyenv) so I usually do a `pip freeze > requirements.txt` so I know which packages I need to install. Then just `pip install ./requirements.txt` from terminal if inside the same directory.
+<b><i>Optional:</i></b> I use a virtual environment for Python (pyenv) so I usually do a `pip freeze > requirements.txt` so I know which packages I need to install. Then just `pip install -r ./requirements.txt` from terminal if inside the same directory.
